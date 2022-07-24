@@ -1,0 +1,1 @@
+C:\GitProject\RustStudy\restaurant\target\debug\librestaurant.rlib: C:\GitProject\RustStudy\restaurant\src\front_of_house\hosting.rs C:\GitProject\RustStudy\restaurant\src\front_of_house.rs C:\GitProject\RustStudy\restaurant\src\lib.rs
