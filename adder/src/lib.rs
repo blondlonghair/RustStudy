@@ -92,10 +92,10 @@ mod tests {
     //     assert_eq!(4, internal_adder(2,2));
     // }
     
-    use adder;
+    // use adder;
     
-    #[test]
-    fn it_adds_two() {
-        assert_eq!(4, adder::add_two(2,2));
-    }
+    // #[test]
+    // fn it_adds_two() {
+    //     assert_eq!(4, adder::add_two(2,2));
+    // }
 }
