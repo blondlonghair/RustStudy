@@ -43,6 +43,7 @@ pub mod kinds {
 
 pub mod utils {
     use crate::kinds::*;
+    use crate::SecondaryColor;
 
     /// Combines two primary colors in equal amounts to create
     /// a secondary color.
