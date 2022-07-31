@@ -1,7 +1,7 @@
 use std::env;
 use std::process;
 
-use minigrep::Config;
+use minigrep_v2::Config;
 
 fn main() {
     let config = Config::new(env.args()).unwrap_or_else(|err| {
@@ -15,7 +15,7 @@ fn main() {
     println!("검색어: {}", config.query);
     println!("대상 파일: {}", config.filename);
 
-    if let Err(e) = minigrep::run(config) {
+    if let Err(e) = minigrep_v2::run(config) {
         eprintln!("애플리케이션 에러: {}", e);
 
         process::exit(1);

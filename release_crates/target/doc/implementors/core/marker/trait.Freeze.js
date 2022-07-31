@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["release_crates"] = [{"text":"impl Freeze for <a class=\"enum\" href=\"release_crates/kinds/enum.PrimaryColor.html\" title=\"enum release_crates::kinds::PrimaryColor\">PrimaryColor</a>","synthetic":true,"types":["release_crates::kinds::PrimaryColor"]},{"text":"impl Freeze for <a class=\"enum\" href=\"release_crates/kinds/enum.SecondaryColor.html\" title=\"enum release_crates::kinds::SecondaryColor\">SecondaryColor</a>","synthetic":true,"types":["release_crates::kinds::SecondaryColor"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

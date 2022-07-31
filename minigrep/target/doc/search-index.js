@@ -1,0 +1,4 @@
+var searchIndex = JSON.parse('{\
+"minigrep":{"doc":"","t":[3,11,11,12,12,11,11,11,12,5,5,5,11,11,11],"n":["Config","borrow","borrow_mut","case_sensitive","filename","from","into","new","query","run","search","search_case_insensitive","try_from","try_into","type_id"],"q":["minigrep","","","","","","","","","","","","","",""],"d":["","","","","","Returns the argument unchanged.","Calls <code>U::from(self)</code>.","","","","","","","",""],"i":[0,1,1,1,1,1,1,1,1,0,0,0,1,1,1],"f":[null,[[["",0]],["",0]],[[["",0]],["",0]],null,null,[[]],[[]],[[],["result",4,[["config",3],["str",0]]]],null,[[["config",3]],["result",4,[["box",3,[["error",8]]]]]],[[["str",0],["str",0]],["vec",3,[["str",0]]]],[[["str",0],["str",0]],["vec",3,[["str",0]]]],[[],["result",4]],[[],["result",4]],[[["",0]],["typeid",3]]],"p":[[3,"Config"]]}\
+}');
+if (window.initSearch) {window.initSearch(searchIndex)};
